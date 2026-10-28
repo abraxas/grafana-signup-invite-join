@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/grafana-signup-invite-join">grafana-signup-invite-join</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/grafana-signup-invite-join"><strong>https://abraxaslabs.tech/research/grafana-signup-invite-join</strong></a>
+</p>
+
 
 # grafana-signup-invite-join
 
